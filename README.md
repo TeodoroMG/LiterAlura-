@@ -123,4 +123,4 @@ https://github.com/TeodoroMG/LiterAlura-/assets/108698165/737b5f3c-b8fb-44ec-8db
 
 
 
-### Gracias por tu atención y no dudes en compartir cualquier idea o mejora. ¡Tu creatividad es la chispa que enciende la magia del desarrollo de software!
+## Gracias por tu atención y no dudes en compartir cualquier idea o mejora. ¡Tu creatividad es la chispa que enciende la magia del desarrollo de software!
