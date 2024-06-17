@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <div style="position: relative; display: inline-block; text-align: center;">
     <img src="assets/logoLiteralura.jpg" alt="Logo del Proyecto" style="width: 100%;">
