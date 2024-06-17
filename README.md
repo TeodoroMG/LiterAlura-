@@ -1,11 +1,11 @@
-
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
 
 <div style="position: relative; display: inline-block; text-align: center;">
     <img src="assets/logoLiteralura.jpg" alt="Logo del Proyecto" style="width: 100%;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
          color: white; font-size: 30px; font-weight: bold; background-color: rgba(0, 0, 0, 0.5); 
          padding: 10px; font-family: 'Italic', sans-serif;font-style: oblique;">
-        Literatura Alura
+       Literatura Alura
     </div>
 </div>
 
