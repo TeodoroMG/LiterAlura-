@@ -9,7 +9,7 @@
     </div>
 </div>
 
-<h1 align="center"> Practicando Spring Boot: Challenge Literalura </h1>
+<h1 align="left"> Practicando Spring Boot: Challenge Literalura </h1>
 Es una aplicación de consola desarrollada en Java que permite buscar libros, listar libros y autores, y obtener estadísticas sobre los libros más descargados. La aplicación se conecta a la API de Gutendex para obtener información sobre los libros y utiliza una base de datos PostgreSQL para almacenar los datos.
 
 ## Funcionalidades
