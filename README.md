@@ -116,11 +116,12 @@ Muestra el libro más descargado y el menos descargado de la base de datos.
 
 La aplicación utiliza la API de Gutendex para obtener información sobre los libros. Más información sobre la API está disponible en [Gutendex API](https://gutendex.com).
 
-## Contribución
+
 ## Video
 
 https://github.com/TeodoroMG/LiterAlura-/assets/108698165/737b5f3c-b8fb-44ec-8db2-8ee22dc5a9fb
 
+## Contribución 
 ¡Si tienes alguna pregunta o sugerencia, no dudes en contactarme!
 
 LinkedIn: [Teodoro Matarrita](https://www.linkedin.com/in/teodoro-matarrita/)
