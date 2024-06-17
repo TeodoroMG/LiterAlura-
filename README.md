@@ -5,7 +5,7 @@
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
          color: white; font-size: 30px; font-weight: bold; background-color: rgba(0, 0, 0, 0.5); 
          padding: 10px; font-family: 'Italic', sans-serif;font-style: oblique;">
-       Literatura Alura
+      <h3 align="center"> Literatura Alura </h3> 
     </div>
 </div>
 
