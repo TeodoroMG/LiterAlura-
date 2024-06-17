@@ -121,6 +121,8 @@ La aplicación utiliza la API de Gutendex para obtener información sobre los li
 
 https://github.com/TeodoroMG/LiterAlura-/assets/108698165/737b5f3c-b8fb-44ec-8db2-8ee22dc5a9fb
 
+¡Si tienes alguna pregunta o sugerencia, no dudes en contactarme!
 
+LinkedIn: [Teodoro Matarrita](https://www.linkedin.com/in/teodoro-matarrita/)
 
  ### Gracias por tu atención y no dudes en compartir cualquier idea o mejora. ¡Tu creatividad es la chispa que enciende la magia del desarrollo de software!
