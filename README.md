@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 <div style="position: relative; display: inline-block; text-align: center;">
     <img src="assets/logoLiteralura.jpg" alt="Logo del Proyecto" style="width: 100%;">
@@ -118,6 +118,9 @@ La aplicación utiliza la API de Gutendex para obtener información sobre los li
 
 ## Contribución
 ## Video
-![video de uso de la aplicacion](assets/Literatura%20Alura.mp4)
+
+https://github.com/TeodoroMG/LiterAlura-/assets/108698165/737b5f3c-b8fb-44ec-8db2-8ee22dc5a9fb
+
+
 
 ### Gracias por tu atención y no dudes en compartir cualquier idea o mejora. ¡Tu creatividad es la chispa que enciende la magia del desarrollo de software!
